@@ -1,0 +1,14 @@
+
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-nav{
+	padding: 10px 100px 10px 0;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	margin: 1rem;
+}
